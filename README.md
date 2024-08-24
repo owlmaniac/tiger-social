@@ -1,7 +1,11 @@
 # tiger-social
 A Discord social bot for answering questions with relevance and attribution
 
-Set these variables into .env file before running 
+## Install the Prerequisites
+```
+$ pip install pymysql python-dotenv openai requests discord.py
+```
+## Set these variables into .env file before running 
 ```
 DISCORD_TOKEN = ""
 
