@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/0923a764-c4da-4a30-853f-e2f7cbe06779" alt="Tiger Social" width="200">
+
 # tiger-social
 A Discord social bot for answering questions with relevance and attribution
 
